@@ -14,7 +14,7 @@
 <br>
 
 <p aligm="center">
- <img alt="projeto Habits" src="./imagens/Capturar.JPG" width="100%">
+ <img alt="projeto android" src="./imagens/Capturar.JPG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,5 +33,6 @@ E um site que conta a história do mascote Android.
 ## : memo : Licença
 
 Esse projeto está sob a linceça MIT.
+
 
 
