@@ -1,4 +1,4 @@
-<h1 aligm="center"># projeto-android</h1>
+<h1 text-align: center;># projeto-android</h1>
 <p>Projeto Android criado no Capítulo 17 do curso de HTML e CSS</p>
 
 <p aligm="center">
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 E um site que conta a história do mascote Android.
 
-- Visite o projeto online (fiamadev.github.io/projeto-android/)
+- Visite o projeto online (https://fiamadev.github.io/projeto-android/)
 
 ## : memo : Licença
 
